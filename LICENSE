@@ -1,0 +1,37 @@
+EveryGameStat Proprietary License
+
+Copyright (c) 2026 EveryGameStat (everygamestat.com). All rights reserved.
+
+This repository and everything in it, including but not limited to source
+code, compiled builds, designs, graphics, the mascot, text, and documentation
+(the "Software"), is the exclusive property of the copyright holder.
+
+NO PERMISSION IS GRANTED. Without prior written permission from the copyright
+holder, you may not:
+
+  1. copy, reproduce, or mirror the Software, in whole or in part;
+  2. modify, adapt, translate, or create derivative works based on it;
+  3. distribute, publish, sublicense, sell, rent, or otherwise make it
+     available to third parties;
+  4. use any part of it in another project, product, or service, whether
+     commercial or non-commercial;
+  5. reverse engineer, decompile, or disassemble compiled builds, except
+     where applicable law expressly allows this despite this restriction.
+
+The public visibility of this repository does not grant any license. Viewing
+the Software on GitHub, and any rights granted by GitHub's Terms of Service,
+do not extend to any use outside of GitHub.
+
+Official compiled builds of the EveryGameStat Companion may be downloaded and
+installed for personal use only, through the official channels provided by
+EveryGameStat. This does not grant any right to the source code.
+
+Versions of this repository that were published under the MIT License before
+this license was added remain subject to that license only for those specific
+earlier versions. All later changes are covered exclusively by this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For permission requests, contact EveryGameStat via everygamestat.com.
